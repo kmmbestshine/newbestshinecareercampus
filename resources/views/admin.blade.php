@@ -119,7 +119,7 @@
                                                 <div class="card">
                                                     <div class="card-header">
                                                         <h5>Statestics</h5> <br><h4 class="text-danger">Statestics will be active when you have at least  500 Student</h4>
-                                                        <h4 class="text-danger"> Call us 9169743022 to get Free App of your institution</h4>
+                                                        <h4 class="text-danger"> Call us 9003152804 to get Free App of your institution</h4>
                                                         <div class="card-header-left ">
                                                         </div>
                                                         <div class="card-header-right">
@@ -207,7 +207,7 @@
                                                 </div>
                                            
                                             <!-- Email Sent End -->
-                                            <!-- Data widget start 
+                                            <!-- Data widget start -->
                                             <div class="col-md-12 col-xl-6">
                                                 <div class="card project-task">
                                                     <div class="card-header">
