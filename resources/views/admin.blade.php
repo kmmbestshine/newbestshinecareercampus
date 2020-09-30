@@ -207,7 +207,7 @@
                                                 </div>
                                            
                                             <!-- Email Sent End -->
-                                            <!-- Data widget start -->
+                                            <!-- Data widget start 
                                             <div class="col-md-12 col-xl-6">
                                                 <div class="card project-task">
                                                     <div class="card-header">
